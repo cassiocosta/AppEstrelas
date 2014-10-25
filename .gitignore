@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/AppEstrelinha/Bin/Debug
+/AppEstrelinha/Bin/Release
+/AppEstrelinha/obj
+*.user
+/Backup
